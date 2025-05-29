@@ -1,6 +1,6 @@
 Personal Portfolio Explanation
 
-This project is a personal portfolio website built using HTML, CSS, and JavaScript. It's a simple and clean webpage meant to showcase your personal information, skills, and provide access to your resume. Below is a full breakdown of how everything works.
+This project is a personal portfolio website built using HTML, CSS, and JavaScript. It's a simple and clean webpage meant to showcase my personal information, skills, and provide access to your resume. Below is a full breakdown of how everything works.
 
 
 ---
@@ -50,9 +50,9 @@ Adds spacing between the sections to make it easy to read and scroll through.
 
 🔹 JavaScript (Interactivity)
 
-The JavaScript file makes the website interactive. In this example, it does a simple task: when the user clicks the "Download Resume" button, a pop-up message appears saying something like “Thanks for downloading my resume!”
 
-You can add more features later like animations, form validations, or dynamic content using JavaScript.
+
+
 
 
 ---
